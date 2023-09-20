@@ -1,6 +1,7 @@
 # directshow preview
-directshow example for VisualFBEditor
+Still under construction
 
+directshow example for VisualFBEditor
 ## amcap
 
 ![amcap](https://github.com/chunmingwang/directshow/assets/35757455/6ed1f4ce-73b5-43b6-9b26-9f34478a11ee)
