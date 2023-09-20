@@ -1,4 +1,4 @@
-# directshow
+# directshow preview
 directshow example for VisualFBEditor
 
 ## amcap
