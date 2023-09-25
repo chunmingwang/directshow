@@ -4,6 +4,14 @@ Still under construction
 directshow example for VisualFBEditor
 ## amcap
 
+IBasicVideo::GetCurrentImage
+Retrieves the current image waiting at the renderer.
+This method fails If the renderer Is Using DirectDraw acceleration. Unfortunately,
+This depends On the End-user's hardware configuration, so in practice this method is not reliable.
+A better way to obtain a sample from a stream in the graph is to use the ISampleGrabber interface.
+
+but ISampleGrabber qedit.bi not being imported on freebasic
+
 ![amcap](https://github.com/chunmingwang/directshow/assets/35757455/6ed1f4ce-73b5-43b6-9b26-9f34478a11ee)
 
 Audio format dialog
