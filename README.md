@@ -1,5 +1,4 @@
-# directshow preview
-Still under construction
+# directshow
 
 directshow example for VisualFBEditor
 ## amcap
@@ -32,8 +31,8 @@ Video capture pin dialog
 
 ## playcap
 
-![playcap](https://github.com/chunmingwang/directshow/assets/35757455/8234ac9a-d83a-4ce9-8f15-38b5d32b5815)
+![image](https://github.com/chunmingwang/directshow/assets/35757455/8234ac9a-d83a-4ce9-8f15-38b5d32b5815)
 
 ## sysenum
 
-![sysenum](https://github.com/chunmingwang/directshow/assets/35757455/d166f9e6-4774-4785-adce-2789f187c01f)
+![image](https://github.com/chunmingwang/directshow/assets/35757455/d166f9e6-4774-4785-adce-2789f187c01f)
